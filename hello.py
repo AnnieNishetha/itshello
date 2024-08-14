@@ -1,3 +1,3 @@
-print("Hello i am annie the noob")
+print("Hello i am annie ")
 print("hi")
-print("i am maidha")
+
